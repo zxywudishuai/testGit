@@ -1,1 +1,1 @@
-let yanzhi = 100;
+let yanzhi = 10;
